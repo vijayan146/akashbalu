@@ -13,6 +13,4 @@ void main()
             if(i%2==1)
             printf("print the i value%d",i);
         }
-    }
-
-}
+    
